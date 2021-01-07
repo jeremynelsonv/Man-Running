@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+#bg {
+  position: absolute;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#man {
+  height: 200px;
+}
